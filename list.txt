@@ -2,3 +2,4 @@
 2. Hızlı performans
 3. Çoklu dil desteği
 4. Gece modu
+5. Kullanışlı Arayüz Desteği
