@@ -1,5 +1,5 @@
-1. Kullanıcı dostu arayüz
-2. Hızlı performans
 3. Çoklu dil desteği
+2. Hızlı performans
+1. Kullanıcı dostu arayüz
 4. Gece modu
 5. Kullanışlı Arayüz Desteği
